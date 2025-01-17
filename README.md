@@ -29,7 +29,7 @@ Homebrew refers to software not authorized by Nintendo. Modifying your Wii to ru
 
 ---
 
-## Step-by-Step Guide
+## [Step-by-Step Guide](https://www.youtube.com/watch?v=IMAHP-3sm4A)
 
 ### Step 1: Choose and Use an Exploit (Required)
 
