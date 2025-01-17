@@ -99,25 +99,16 @@ Custom IOS (cIOS) allows advanced features such as USB loading and game backups.
 
 Explore and download recommended homebrew apps using the Open Shop Channel. Some popular apps include:
 
-- **USB Loader GX**: For playing game backups from a USB drive.
-- **WiiMC**: For media playback.
-- **Nintendont**: For playing GameCube backups.
+- **USB Loader GX**: Play Wii game backups from a USB drive.  
+- **Nintendont**: Play GameCube game backups with full controller and memory card support.  
+- **HackMii Installer**: Essential for installing the Homebrew Channel and BootMii.  
+- **Priiloader**: A tool for modifying Wii startup behavior and adding extra security.  
+- **Priiloader Launcher**: Simplifies launching Priiloader from the Homebrew Channel.  
+- **SaveGame Manager GX**: Manage and back up your save files.  
+- **WAD Manager**: Install WAD files (channels, IOS files, etc.).  
+- **YawMM (Yet Another Wad Manager Mod)**: A modernized WAD manager alternative.
 
 Browse apps in the Open Shop Channel for more options.
-
-### Step 8: Regain WiiConnect24 Functionality (Optional)
-
-Restore WiiConnect24 to use features like the Forecast Channel and News Channel:
-
-1. Follow the [RiiConnect24 Setup Guide](https://wii.guide/riiconnect24.html).
-2. Use the provided patchers and instructions to configure your Wii.
-
-### Step 9: Regain Nintendo Wi-Fi Connection Functionality (Optional)
-
-Restore online multiplayer for games by setting up Wiimmfi:
-
-1. Follow the [Wiimmfi Setup Guide](https://wii.guide/wiimmfi.html).
-2. Patch your game ISOs or use an automatic DNS solution.
 
 ---
 
