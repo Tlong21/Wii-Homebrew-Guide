@@ -16,7 +16,6 @@ Homebrew refers to software not authorized by Nintendo. Modifying your Wii to ru
 - Back up your discs and other installed titles.
 - Watch DVDs and play external media files.
 - Install a USB loader to launch Wii (and other console) backups from an external storage device.
-- Restore online functionality to both WiiConnect24 and Nintendo Wi-Fi Connection.
 
 ---
 
