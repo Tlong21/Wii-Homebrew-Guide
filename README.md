@@ -39,9 +39,8 @@ The first step is selecting an exploit that works with your Wii to run the HackM
 
 - **LetterBomb** (No game required)
   - Works on System Menu 4.3.
-  - Download the LetterBomb exploit from [please.hackmii.com](https://please.hackmii.com/).
-  - Input your Wii's MAC address (find it in the Wii settings under "Internet").
-  - Download the ZIP file and copy its contents to the root of your SD card.
+  - Download the LetterBomb exploit from [modmii](https://modmii.github.io/).
+  - [Watch this video on Modmii 9 Min in.](https://www.youtube.com/watch?v=jbu0jYpRFdE&t=1375s) 
 
 - **Other Game-Based Exploits** (e.g., Smash Stack, Wilbrand, etc.)
   - For detailed game-based exploits, see [Wii Exploits Guide](https://wii.hacks.guide/#choose-an-exploit).
